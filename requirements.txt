@@ -1,0 +1,16 @@
+autocorrect==2.6.1
+datasets==3.0.0
+evaluate==0.4.3
+keras==2.8.0
+Keras-Preprocessing==1.1.2
+matplotlib==3.5.0
+nltk==3.9.1
+numpy==1.21.2
+pandas==1.1.5
+Pattern==3.6.0
+scikit-learn==1.5.2
+seaborn==0.11.2
+tensorflow==2.8.0
+torch==2.4.1
+transformers==4.44.2
+compress-fasttext==0.1.5
